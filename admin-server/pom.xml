@@ -13,10 +13,10 @@
     </parent>
 
     <groupId>com.a05</groupId>
-    <artifactId>a05-admin-server</artifactId>
+    <artifactId>ai-mock-interview-server</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <name>a05-admin-server</name>
-    <description>A05 AI 面试系统 - 管理后台</description>
+    <name>ai-mock-interview-server</name>
+    <description>AI Mock Interview &amp; Capability Enhancement Platform - Backend Server</description>
     <packaging>jar</packaging>
 
     <properties>
